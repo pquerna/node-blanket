@@ -1,0 +1,24 @@
+{
+  "author": "Paul Querna <pquerna@apache.org> (http://paul.querna.org/)",
+  "name": "blanket",
+  "description": "Code Coverage generator",
+  "version": "0.1.0",
+  "homepage": "https://github.com/pquerna/node-blanket",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pquerna/node-blanket.git"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "uglify-js": ">=1.0.1"
+  },
+  "devDependencies": {}
+}
