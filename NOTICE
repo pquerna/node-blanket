@@ -3,3 +3,11 @@ Copyright (c) 2011, Paul Querna
 
 This product includes software developed by 
 Paul Querna (http://paul.querna.org).
+
+Portions of lib/fs.js are from Cloudkick Cast <https://github.com/cloudkick/cast>:
+  Copyright (c) 2010, Cloudkick, Inc.
+
+  This product includes software developed by
+  Cloudkick (http://www.cloudkick.com/).
+
+  Copyright 2009, 2010 Isaac Zimmitti Schlueter. All rights reserved.
