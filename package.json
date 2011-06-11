@@ -18,7 +18,8 @@
     "node": "*"
   },
   "dependencies": {
-    "async": ">= 0.1.4"
+    "async": ">= 0.1.4",
+    "uglify-js": ">=1.0.1"
   },
   "devDependencies": {}
 }
